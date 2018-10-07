@@ -1,0 +1,13 @@
+.timedisplay {
+    border: 1px solid black;
+    padding: 10px 25px;
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+h1.timedisplay {
+    width: 50%;
+}
+p.timedisplay {
+    width: 40%;
+}
